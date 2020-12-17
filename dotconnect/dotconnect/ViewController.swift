@@ -3,9 +3,9 @@
 //  dotconnect
 //
 //  Created by Zillionbear on 12/16/20.
-//  Copyright © 2020 dotconnect development. All rights reserved.
+//  Copyright © 2020 craters development. All rights reserved.
 //
-//  Contributers: Zillionbear (credit: idea and base app) [Your name could be here!]
+//  Contributions: Zillionbear (credit: idea and base app) [Your name could be here!]
 
 import UIKit
 

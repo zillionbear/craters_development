@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  dotconnectX
+//  dotconnectX - Modern iOS, 13.6+
 //
 //  Created by Arturo Cano on 4/9/21.
 //  Diamondback pride!
